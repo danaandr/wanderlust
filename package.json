@@ -1,0 +1,20 @@
+{
+  "name": "wanderlust-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"No test specified\"",
+    "start": "here goes the command that yo need to execute when ask for 'start' task "
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^15.0.0"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "webpack": "^5.67.0"
+  },
+  "description": ""
+}
